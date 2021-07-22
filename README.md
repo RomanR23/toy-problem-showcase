@@ -763,7 +763,7 @@ Now that we have a rough draft of everything our component will need, let's star
       ],
 
       userInput: '',
-      filteredEmployees: []
+      filteredEmployees: [0]
     }
   }
 ```
